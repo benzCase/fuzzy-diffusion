@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Salidas de entrenamiento del objetivo 1 (checkpoints, muestras, reportes)
+diffusion-model/obj-1/re_1-1/outputs/
+
+.idea
